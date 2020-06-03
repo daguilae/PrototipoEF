@@ -54,6 +54,7 @@
 			this.autorizaciónDeOrdenesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.actualizaciónDeExistenciasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.seguridadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.helpMenu = new System.Windows.Forms.ToolStripMenuItem();
@@ -64,7 +65,6 @@
 			this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.toolTip = new System.Windows.Forms.ToolTip(this.components);
 			this.lblusuario = new System.Windows.Forms.Label();
-			this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -271,6 +271,13 @@
 			this.informesToolStripMenuItem.Size = new System.Drawing.Size(86, 23);
 			this.informesToolStripMenuItem.Text = "Informes";
 			// 
+			// reportesToolStripMenuItem
+			// 
+			this.reportesToolStripMenuItem.Name = "reportesToolStripMenuItem";
+			this.reportesToolStripMenuItem.Size = new System.Drawing.Size(143, 24);
+			this.reportesToolStripMenuItem.Text = "Reportes";
+			this.reportesToolStripMenuItem.Click += new System.EventHandler(this.ReportesToolStripMenuItem_Click);
+			// 
 			// herramientasToolStripMenuItem
 			// 
 			this.herramientasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -342,13 +349,6 @@
 			this.lblusuario.TabIndex = 4;
 			this.lblusuario.Text = "label1";
 			// 
-			// reportesToolStripMenuItem
-			// 
-			this.reportesToolStripMenuItem.Name = "reportesToolStripMenuItem";
-			this.reportesToolStripMenuItem.Size = new System.Drawing.Size(180, 24);
-			this.reportesToolStripMenuItem.Text = "Reportes";
-			this.reportesToolStripMenuItem.Click += new System.EventHandler(this.ReportesToolStripMenuItem_Click);
-			// 
 			// MDI
 			// 
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -361,7 +361,7 @@
 			this.IsMdiContainer = true;
 			this.MainMenuStrip = this.menuStrip;
 			this.Name = "MDI";
-			this.Text = "MDI";
+			this.Text = "MDI - 0901-16-420 GUSTAVO PEREZ";
 			this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 			this.Load += new System.EventHandler(this.MDI_Load);
 			this.menuStrip.ResumeLayout(false);
