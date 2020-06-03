@@ -77,3 +77,4 @@ C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debu
 C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaControlador.pdb
 C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Autorizar.resources
 C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Actualizar.resources
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Reportes.resources

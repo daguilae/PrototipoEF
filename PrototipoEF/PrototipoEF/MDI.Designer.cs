@@ -64,6 +64,7 @@
 			this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.toolTip = new System.Windows.Forms.ToolTip(this.components);
 			this.lblusuario = new System.Windows.Forms.Label();
+			this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip.SuspendLayout();
 			this.SuspendLayout();
 			// 
@@ -244,14 +245,14 @@
 			// creaciónDeÓrdenesToolStripMenuItem
 			// 
 			this.creaciónDeÓrdenesToolStripMenuItem.Name = "creaciónDeÓrdenesToolStripMenuItem";
-			this.creaciónDeÓrdenesToolStripMenuItem.Size = new System.Drawing.Size(296, 24);
+			this.creaciónDeÓrdenesToolStripMenuItem.Size = new System.Drawing.Size(269, 24);
 			this.creaciónDeÓrdenesToolStripMenuItem.Text = "Creación de Órdenes";
 			this.creaciónDeÓrdenesToolStripMenuItem.Click += new System.EventHandler(this.CreaciónDeÓrdenesToolStripMenuItem_Click);
 			// 
 			// autorizaciónDeOrdenesToolStripMenuItem
 			// 
 			this.autorizaciónDeOrdenesToolStripMenuItem.Name = "autorizaciónDeOrdenesToolStripMenuItem";
-			this.autorizaciónDeOrdenesToolStripMenuItem.Size = new System.Drawing.Size(296, 24);
+			this.autorizaciónDeOrdenesToolStripMenuItem.Size = new System.Drawing.Size(269, 24);
 			this.autorizaciónDeOrdenesToolStripMenuItem.Text = "Autorización de Ordenes";
 			this.autorizaciónDeOrdenesToolStripMenuItem.Click += new System.EventHandler(this.AutorizaciónDeOrdenesToolStripMenuItem_Click);
 			// 
@@ -264,6 +265,8 @@
 			// 
 			// informesToolStripMenuItem
 			// 
+			this.informesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.reportesToolStripMenuItem});
 			this.informesToolStripMenuItem.Name = "informesToolStripMenuItem";
 			this.informesToolStripMenuItem.Size = new System.Drawing.Size(86, 23);
 			this.informesToolStripMenuItem.Text = "Informes";
@@ -339,6 +342,13 @@
 			this.lblusuario.TabIndex = 4;
 			this.lblusuario.Text = "label1";
 			// 
+			// reportesToolStripMenuItem
+			// 
+			this.reportesToolStripMenuItem.Name = "reportesToolStripMenuItem";
+			this.reportesToolStripMenuItem.Size = new System.Drawing.Size(180, 24);
+			this.reportesToolStripMenuItem.Text = "Reportes";
+			this.reportesToolStripMenuItem.Click += new System.EventHandler(this.ReportesToolStripMenuItem_Click);
+			// 
 			// MDI
 			// 
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -397,6 +407,7 @@
 		private System.Windows.Forms.ToolStripMenuItem creaciónDeÓrdenesToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem autorizaciónDeOrdenesToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem actualizaciónDeExistenciasToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem reportesToolStripMenuItem;
 	}
 }
 

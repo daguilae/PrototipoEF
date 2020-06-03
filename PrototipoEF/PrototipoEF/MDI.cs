@@ -167,5 +167,11 @@ namespace PrototipoEF
 			Actualizar productos = new Actualizar(lblusuario.Text);
 			productos.Show();
 		}
+
+		private void ReportesToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			Reportes productos = new Reportes(lblusuario.Text);
+			productos.Show();
+		}
 	}
 }
