@@ -148,5 +148,24 @@ namespace PrototipoEF
 			Bodegas productos = new Bodegas(lblusuario.Text);
 			productos.Show();
 		}
+
+		private void CreaciónDeÓrdenesToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			Rentas productos = new Rentas(lblusuario.Text);
+			productos.Show();
+		}
+
+		private void AutorizaciónDeOrdenesToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+
+			Autorizar productos = new Autorizar(lblusuario.Text);
+			productos.Show();
+		}
+
+		private void ActualizaciónDeExistenciasToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			Actualizar productos = new Actualizar(lblusuario.Text);
+			productos.Show();
+		}
 	}
 }
