@@ -67,3 +67,14 @@ C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debu
 C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Marca.resources
 C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Bodegas.resources
 C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Proveedores.resources
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Rentas.resources
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaVista.dll
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\itextsharp.dll
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaModelo.dll
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaControlador.dll
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaVista.pdb
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaModelo.pdb
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\bin\Debug\CapaControlador.pdb
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Autorizar.resources
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Actualizar.resources
+C:\Users\gganp\Desktop\EXAMEN FINAL\PrototipoEF\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Reportes.resources
