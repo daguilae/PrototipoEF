@@ -117,5 +117,36 @@ namespace PrototipoEF
 			MDI_Seguridad MIDSEG = new MDI_Seguridad(lblusuario.Text);
 			MIDSEG.Show();
 		}
+
+		private void ProductosToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			Productos productos = new Productos(lblusuario.Text);
+			productos.Show();
+		}
+
+		private void ToolStripMenuItem1_Click(object sender, EventArgs e)
+		{
+			Linea productos = new Linea(lblusuario.Text);
+			productos.Show();
+			
+		}
+
+		private void MarcasToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			Marca productos = new Marca(lblusuario.Text);
+			productos.Show();
+		}
+
+		private void ProveedoresToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			Proveedores productos = new Proveedores(lblusuario.Text);
+			productos.Show();
+		}
+
+		private void ToolStripMenuItem2_Click(object sender, EventArgs e)
+		{
+			Bodegas productos = new Bodegas(lblusuario.Text);
+			productos.Show();
+		}
 	}
 }
