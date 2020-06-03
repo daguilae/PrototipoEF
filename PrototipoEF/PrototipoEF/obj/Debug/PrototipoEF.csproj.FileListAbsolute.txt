@@ -1,0 +1,17 @@
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.csprojAssemblyReference.cache
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.MDI.resources
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.Properties.Resources.resources
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.csproj.GenerateResource.cache
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.csproj.CoreCompileInputs.cache
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\PrototipoEF.exe.config
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\PrototipoEF.exe
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\PrototipoEF.pdb
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.exe
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.pdb
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\CapaDiseno.dll
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\CapaLogica.dll
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\CapaDatos.dll
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\CapaDiseno.pdb
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\CapaLogica.pdb
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\bin\Debug\CapaDatos.pdb
+C:\Users\gganp\Desktop\PrototipoEF\PrototipoEF\obj\Debug\PrototipoEF.csproj.CopyComplete
